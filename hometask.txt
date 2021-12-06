@@ -1,1 +1,13 @@
 Изображение в master (текущее) и в demo идентичны
+
+
+Комментарии ветки master (сначала старые):
+init
+README added
+fix readme
+heat added
+boots
+dots
+Readme
+Merge hat + boots_buttons + hometask.txt
+hometask.txt - описание отличий
